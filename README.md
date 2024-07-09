@@ -16,7 +16,7 @@ ActivityStreams vocabulary.
 * `pub`: ActivityPub Social Protocol (Client-to-Server or C2S) and Federating
 Protocol (Server-to-Server or S2S)
 
-Check out [go-fed.org](https://go-fed.org/) for tutorials and documentation.
+Check out the wayback machine archive of [go-fed.org]([https://go-fed.org/](https://web.archive.org/web/20230323153129/https://go-fed.org/) for tutorials and documentation.
 
 ## Status
 
@@ -34,7 +34,7 @@ Please see CHANGELOG for changes between versions.
 
 ## Getting Started
 
-Check out [go-fed.org](https://go-fed.org/) for tutorials and documentation.
+Check out the wayback machine archive of [go-fed.org]([https://go-fed.org/](https://web.archive.org/web/20230323153129/https://go-fed.org/) for tutorials and documentation.
 
 Also, see `astool`, `streams`, or `pub` for their own README.
 
@@ -67,11 +67,11 @@ included.
 | Anancus       | Self-hosted and federated social link aggregation              | [https://gitlab.com/tuxether/anancus](https://gitlab.com/tuxether/anancus)       | [@tuxether@floss.social](https://floss.social/@tuxether) or [tuxether@protonmail.ch](mailto:tuxether@protonmail.ch) | N/A                                                |
 | WriteFreely   | Simple, open-source, privacy-focused blogging platform         | [https://github.com/writeas/writefreely](https://github.com/writeas/writefreely) | [@write_as@writing.exchange](https://writing.exchange/@write_as) or [hello@write.as](mailto:hello@write.as)         | [https://writefreely.org](https://writefreely.org) |
 | Read.as       | Long-form reader built on open protocols                       | [https://github.com/writeas/Read.as](https://github.com/writeas/Read.as)         | [@write_as@writing.exchange](https://writing.exchange/@write_as) or [hello@write.as](mailto:hello@write.as)         | [https://read.as](https://read.as)                 |
-| go-fed/apcore | Generic ActivityPub server framework in Go                     | [https://github.com/go-fed/apcore](https://github.com/go-fed/apcore)             | [@cj@mastodon.technology](https://mastodon.technology/@cj) or [cjslep@gmail.com](mailto:cjslep@gmail.com)           | [https://go-fed.org](https://go-fed.org)           |
+| go-fed/apcore | Generic ActivityPub server framework in Go                     | [https://github.com/go-fed/apcore](https://github.com/go-fed/apcore)             | [@cj@mastodon.technology](https://mastodon.technology/@cj) or [cjslep@gmail.com](mailto:cjslep@gmail.com)           | [https://go-fed.org]([https://go-fed.org](https://web.archive.org/web/20230323153129/https://go-fed.org/))           |
 
 ### How do I use these libraries?
 
-Check out [go-fed.org](https://go-fed.org/) for tutorials and documentation.
+Check out the wayback machine archive of [go-fed.org]([https://go-fed.org/](https://web.archive.org/web/20230323153129/https://go-fed.org/)) for tutorials and documentation.
 
 Please see each subdirectory for its own README for further elaboration.
 
